@@ -2,7 +2,7 @@ Name: moblin-sound-theme
 Version: 0.3
 Release: %mkrel 1
 Summary: Moblin sound theme
-Group: User Interface/Desktops
+Group: System/X11
 Source0: http://git.moblin.org/cgit.cgi/%{name}/snapshot/%{name}-%{version}.tar.bz2
 License: GPLv2+ and LGPLv2+ and CC-BY-SA and CC-BY
 Url: http://www.moblin.org
