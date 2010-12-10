@@ -1,6 +1,6 @@
 Name: moblin-sound-theme
 Version: 0.3
-Release: %mkrel 2
+Release: %mkrel 3
 Summary: Moblin sound theme
 Group: System/X11
 Source0: http://git.moblin.org/cgit.cgi/%{name}/snapshot/%{name}-%{version}.tar.bz2
