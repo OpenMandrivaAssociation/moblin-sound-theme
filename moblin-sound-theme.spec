@@ -45,3 +45,21 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/sounds/moblin/index.theme
 %{_datadir}/sounds/moblin/stereo/*.ogg
 %{_datadir}/sounds/moblin/stereo/*.wav
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 0.3-3mdv2011.0
++ Revision: 620385
+- the mass rebuild of 2010.0 packages
+
+* Sun Oct 11 2009 Olivier Blin <oblin@mandriva.com> 0.3-2mdv2010.0
++ Revision: 456610
+- require coreutils instead of file /bin/touch
+
+* Wed Sep 30 2009 Olivier Blin <oblin@mandriva.com> 0.3-1mdv2010.0
++ Revision: 451503
+- fix group
+- use make macro
+- initial import (from Claudio Matsuoka and Caio Begotti, based on Fedora package)
+- Created package structure for moblin-sound-theme.
+
