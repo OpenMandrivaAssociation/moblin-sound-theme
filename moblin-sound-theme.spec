@@ -5,7 +5,7 @@ Summary: Moblin sound theme
 Group: System/X11
 Source0: http://git.moblin.org/cgit.cgi/%{name}/snapshot/%{name}-%{version}.tar.bz2
 License: GPLv2+ and LGPLv2+ and CC-BY-SA and CC-BY
-Url: http://www.moblin.org
+Url: https://www.moblin.org
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 BuildRequires: gettext
